@@ -9,22 +9,18 @@ title: Vessel
 - Documentation
 - Feature roadmap
 - Release notes
-
   
 ## Explore the Ecosystem
 - **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
 - **[Wordpress](https://momentismedical.dev)** - longform writing + updates
 - **[Medium](https://medium.com/@Snapback17)** - secondary blog
+- - **[Gravatar](https://gravatar.com/momentismedical)**
 
 ## Socials
 - **[Facebook](https://www.facebook.com/profile.php?id=61582103756491)**
 - **[Instagram](https://www.instagram.com/the_moment_is_medical25/)**
 - **[Threads](https://www.threads.com/@the_moment_is_medical25)**
 - **[X](x.com/strait_chlorine)** 
-- **[Gravatar](https://gravatar.com/momentismedical)**
-
-## Contact
-- **[email](snapbackvessel17@gmail.com)**
 
 ## Latest Updates
 Content will appear here as the site deploys.
