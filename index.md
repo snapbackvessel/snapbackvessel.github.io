@@ -14,7 +14,7 @@ title: Vessel
 - **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
 - **[Wordpress](https://momentismedical.dev)** - longform writing + updates
 - **[Medium](https://medium.com/@Snapback17)** - secondary blog
-- - **[Gravatar](https://gravatar.com/momentismedical)**
+- **[Gravatar](https://gravatar.com/momentismedical)**
 
 ## Socials
 - **[Facebook](https://www.facebook.com/profile.php?id=61582103756491)**
