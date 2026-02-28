@@ -3,7 +3,7 @@ layout: default
 title: Vessel
 ---
 
-# Welcome to Snapback project. This site is currently being configured and deployed.
+# Welcome to the Vessel project. This site is currently being configured and deployed.
 
 ## What this project will include
 - Documentation
