@@ -17,14 +17,14 @@ title: Vessel
 - **[Medium](https://medium.com/@Snapback17)** - secondary blog
 
 ## Socials
-- [Facebook](https://www.facebook.com/profile.php?id=61582103756491)
-- [Instagram](https://www.instagram.com/the_moment_is_medical25/)
-- [Threads](https://www.threads.com/@the_moment_is_medical25)
-- [X](x.com/strait_chlorine) 
-- [Gravatar](https://gravatar.com/momentismedical)
+- **[Facebook](https://www.facebook.com/profile.php?id=61582103756491)**
+- **[Instagram](https://www.instagram.com/the_moment_is_medical25/)**
+- **[Threads](https://www.threads.com/@the_moment_is_medical25)**
+- **[X](x.com/strait_chlorine)** 
+- **[Gravatar](https://gravatar.com/momentismedical)**
 
 ## Contact
-- [email](snapbackvessel17@gmail.com)
+- **[email](snapbackvessel17@gmail.com)**
 
 ## Latest Updates
 Content will appear here as the site deploys.
