@@ -12,9 +12,6 @@ title: Vessel
 
   
 ## Explore the Ecosystem
-
-- **[Main Blog](https://mdawg1981-tjlhe.wordpress.com)** - experiments + dashboards
-- **[BreachLab](https://breachlab.momentismedical.dev)** - experiments + dashboards
 - **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
 - **[Wordpress](https://momentismedical.dev)** - longform writing + updates
 - **[Medium](https://medium.com/@Snapback17)** - secondary blog
